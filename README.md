@@ -28,6 +28,8 @@ Esta aplicación de escritorio permite enviar correos electrónicos de forma mas
 
 ```bash
 python nombre_del_archivo.py
+```
+
 
 ## Contribuidores
 
