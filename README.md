@@ -28,3 +28,10 @@ Esta aplicación de escritorio permite enviar correos electrónicos de forma mas
 
 ```bash
 python nombre_del_archivo.py
+```
+
+
+## Contribuidores
+
+- [Jostin Hurtado](https://github.com/QITO17?tab=repositories)
+- [Jhon Eduard Campo](https://github.com/Jhoncampo?tab=repositories)
